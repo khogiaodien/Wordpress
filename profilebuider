@@ -1,0 +1,2 @@
+// remove wppb_notify_user_registration_email
+/wp-content/plugins/profile-builder/front-end/class-formbuilder.php 1127  
